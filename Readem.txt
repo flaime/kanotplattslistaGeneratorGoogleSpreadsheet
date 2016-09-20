@@ -1,5 +1,0 @@
-
-Detta projekt körs som ett skrip på google spredhet. För hela spredchetet och lite annat så fråga :) Är rätt snygg och funkar rikigt bra för att hålla koll på alla de ca 250 kanoterna och få en bra och tydlig bild över var de ligger, vilka plattser som är tomma osv.
-
-
-Ett litet prodjekt för att kunna läsa igneom alla kanotplattser på SPK som sparas i ett grafiks form i ett google spredshet. Detta skrip gör då så att man kan få ut en lista om det skulle behövas. Där detta script är kopplat med en knapp (bild) samt körs automatiskt vid laddning för att ska funka på mobil också.
